@@ -1,0 +1,6 @@
+{
+  "name": "AuraGadget - Premium Gadget Accessories",
+  "description": "Premium gadget accessories e-commerce storefront in Bangladesh featuring curated watches, audio, chargers, and mobile essentials with bilingual English and Bengali support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
